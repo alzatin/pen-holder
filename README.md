@@ -4,9 +4,6 @@
 
 ![](/project.svg)
 
-## pen holder
-
-
-Readme text here
+<h3 style="font-size:20px;"><strong>pen holder:</strong></h3>Readme text here
 
 
